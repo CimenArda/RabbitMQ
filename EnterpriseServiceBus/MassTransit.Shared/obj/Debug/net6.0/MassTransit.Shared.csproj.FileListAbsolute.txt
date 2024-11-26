@@ -1,0 +1,14 @@
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\bin\Debug\net6.0\MassTransit.Shared.exe
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\bin\Debug\net6.0\MassTransit.Shared.deps.json
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\bin\Debug\net6.0\MassTransit.Shared.runtimeconfig.json
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\bin\Debug\net6.0\MassTransit.Shared.dll
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\bin\Debug\net6.0\MassTransit.Shared.pdb
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\obj\Debug\net6.0\MassTransit.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\obj\Debug\net6.0\MassTransit.Shared.AssemblyInfoInputs.cache
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\obj\Debug\net6.0\MassTransit.Shared.AssemblyInfo.cs
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\obj\Debug\net6.0\MassTransit.Shared.csproj.CoreCompileInputs.cache
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\obj\Debug\net6.0\MassTransit.Shared.dll
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\obj\Debug\net6.0\refint\MassTransit.Shared.dll
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\obj\Debug\net6.0\MassTransit.Shared.pdb
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\obj\Debug\net6.0\MassTransit.Shared.genruntimeconfig.cache
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.Shared\obj\Debug\net6.0\ref\MassTransit.Shared.dll

@@ -1,0 +1,14 @@
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\bin\Debug\net6.0\Request-ResponsePattern.Shared.exe
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\bin\Debug\net6.0\Request-ResponsePattern.Shared.deps.json
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\bin\Debug\net6.0\Request-ResponsePattern.Shared.runtimeconfig.json
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\bin\Debug\net6.0\Request-ResponsePattern.Shared.dll
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\bin\Debug\net6.0\Request-ResponsePattern.Shared.pdb
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\obj\Debug\net6.0\Request-ResponsePattern.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\obj\Debug\net6.0\Request-ResponsePattern.Shared.AssemblyInfoInputs.cache
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\obj\Debug\net6.0\Request-ResponsePattern.Shared.AssemblyInfo.cs
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\obj\Debug\net6.0\Request-ResponsePattern.Shared.csproj.CoreCompileInputs.cache
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\obj\Debug\net6.0\Request-ResponsePattern.Shared.dll
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\obj\Debug\net6.0\refint\Request-ResponsePattern.Shared.dll
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\obj\Debug\net6.0\Request-ResponsePattern.Shared.pdb
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\obj\Debug\net6.0\Request-ResponsePattern.Shared.genruntimeconfig.cache
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\Request-ResponsePatternWithMassTransit\Request-ResponsePattern.Shared\obj\Debug\net6.0\ref\Request-ResponsePattern.Shared.dll

@@ -1,0 +1,14 @@
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\bin\Debug\net6.0\MassTransit.WorkerService.Shared.exe
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\bin\Debug\net6.0\MassTransit.WorkerService.Shared.deps.json
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\bin\Debug\net6.0\MassTransit.WorkerService.Shared.runtimeconfig.json
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\bin\Debug\net6.0\MassTransit.WorkerService.Shared.dll
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\bin\Debug\net6.0\MassTransit.WorkerService.Shared.pdb
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\obj\Debug\net6.0\MassTransit.WorkerService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\obj\Debug\net6.0\MassTransit.WorkerService.Shared.AssemblyInfoInputs.cache
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\obj\Debug\net6.0\MassTransit.WorkerService.Shared.AssemblyInfo.cs
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\obj\Debug\net6.0\MassTransit.WorkerService.Shared.csproj.CoreCompileInputs.cache
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\obj\Debug\net6.0\MassTransit.WorkerService.Shared.dll
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\obj\Debug\net6.0\refint\MassTransit.WorkerService.Shared.dll
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\obj\Debug\net6.0\MassTransit.WorkerService.Shared.pdb
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\obj\Debug\net6.0\MassTransit.WorkerService.Shared.genruntimeconfig.cache
+C:\Users\arda1\OneDrive\Masaüstü\RabbitMQ\EnterpriseServiceBus\MassTransit.WorkerService.Shared\obj\Debug\net6.0\ref\MassTransit.WorkerService.Shared.dll

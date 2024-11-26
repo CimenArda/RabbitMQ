@@ -1,0 +1,78 @@
+Bölüm 1 : Message Queue ve Message Broker Kavramları Eşliğinde RabbitMQ Nedir?
+- Message Queue Nedir? Syf 1
+- Message Queue'nun Amacı Nedir? Syf 2
+- Senkron & Asenkron İletişim Modelleri Nelerdir? Syf 3 
+- Message Broker Nedir? Syf 3 
+- Message Broker Teknolojileri Nelerdir? Syf 4
+- RabbitMQ Nedir? Syf 4
+- RabbitMQ'yu Neden Kullanmalıyız? Syf 5
+- Örnek Senaryo Syf 6
+- RabbitMQ'nun İşleyişi Nasıldır? Syf 7
+- RabbitMQ Ortamının CloudAMQP Üzerinden İncelenmesi Syf 8
+
+Bölüm 2 : Exchange & Binding Kavramları ve İşleyişleri Nedir? Exchange Türleri Nelerdir?
+- Exchange Nedir ? Syf 9
+- Binding Nedir ? Syf 10
+--Exchange Türleri
+  - Direct Exchange Syf 11
+  - Fanout Exchange Syf 12
+  - Topic Exchange  Syf 13
+  - Header Exchange Syf 14
+
+Bölüm 3:Basit Düzeyde Publisher ve Consumer Uygulamaları Oluşturma Detayları
+
+- RabbitMQ.Client Kütüphanesi Syf 15
+- Publisher Uygulamasını Oluşturalım Syf 15 - Syf 16 - Syf 17 
+- Consumer Uygulamasını Oluşturalım Syf 18 - Syf 19
+
+Bölüm 4: Gelişmiş Kuyruk Mimarisi
+- Gelişmiş Kuyruk Mimarisi Nedir? Syf 20
+- Round-Robin Dispatching Nedir? Syf 21 -Syf 22 -Syf 23
+- Message Acknowledgement Nedir? Syf 24 
+- Message Acknowledgement Problemleri Nelerdir? Syf 25
+- Message Acknowledgement'e Dair Son İstişareler Syf 26
+- Message Acknowledgement Nasıl Yapılandırılır? BasicAck Metodu Syf 27 
+- BasicNack İle İşlenmeyen Mesajları Geri Gönderme Syf 28
+- BasicCancel İle Bir Kuyruktaki Tüm Mesajların İşlenmesini Reddetme 
+Syf 29
+- BasicReject İle Tek Bir Mesajın İşlenmesini Reddetme Syf 29
+- Message Durability Nedir? Syf 30
+- Fair Dispatch Syf 31
+- Mesaj İşleme Konfigürasyonu Syf 31
+
+Bölüm 5: Exchange Türleri Pratikleri 
+- Direct Exchange Davranışı | Pratik İnceleme Syf 32 - Syf 33
+- Fanout Exchange Davranışı | Pratik İnceleme Syf 34 - Syf 35
+- Topic Exchange Davranışı | Pratik İnceleme Syf 36 - Syf 37 - Syf 38
+- Header Exchange Davranışı | Pratik İnceleme Syf 39 - Syf 40 - Syf 41 - Syf 42
+
+
+Bölüm 6 : Mesaj Tasarımları Nelerdir? Hem Teorik Hem de Pratik İnceleyelim
+- Mesaj Tasarımlarından Kastedilen Nedir? Syf 43 
+- Yaygın Mesaj Tasarımları Nelerdir? Syf 44
+  --P2P(Point-to-Point) Tasarımı Nedir? Syf 44 
+  --Publish/Subscribe(Pub/Sub) Tasarımı Nedir? Syf 44
+  --Work Queue(İş Kuyruğu) Tasarımı Nedir? Syf 45
+  --Request/Response Tasarımı Nedir? Syf 45
+
+- P2P(Point-to-Point) Tasarımının Pratik İncelemesi Syf 46 - Syf 47
+- Publish/Subscribe(Pub/Sub) Tasarımının Pratik İncelemesi Syf 47
+Syf 48
+- Work Queue(İş Kuyruğu) Tasarımının Pratik İncelemesi Syf 49 -Syf 50 -Syf 51
+- Request/Response Tasarımının Pratik İncelemesi Syf 52 - Syf 53
+
+
+Bölüm 7 : Enterprise Service Bus & MassTransit Nedir? Nasıl Yapılandırılır?
+
+- ESB(Enterprise Service Bus) Nedir? Syf 54
+- ESB'nin Temel Amacı Nedir? Syf 55
+- MassTransit Nedir? Syf 56 -  Syf 57
+- Transport Gateway Nedir? Syf 57
+- MassTransit Hangi Durumlarda Kullanılır? Syf 58
+- Basit Düzeyde MassTransit'in Kullanımı Syf 58 - Syf 59 - Syf 60 - SYf 61 - Syf 62 
+- Worker Service Uygulamasında MassTransit'in Kullanımı Syf 62 -Syf 62 -Syf 63 - Syf 64 - Syf 65 
+- Publish ile Send Arasındaki Fark Nedir? Syf 66
+
+Bölüm 8:MassTransit İle Request/Response Pattern Uygulaması
+- Uygulamaya Geçelim Syf 67 - Syf 68 - Syf 69
+
